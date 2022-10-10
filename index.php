@@ -12,7 +12,7 @@
           rotation="0 2 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
         />
       </a-marker>
-      <a-marker type='pattern' url='pattern-174125789_594070895323093_37739543886445794_n.patt'>
+      <a-marker type='pattern' url='sepatu.patt'>
         <a-image src="klipartz.com.png"
           position= "0 1 0"
           scale= "1.5 1.5 1.5"
