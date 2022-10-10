@@ -5,7 +5,7 @@
   <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script> 
   <body>
     <a-scene>
-      <a-marker type='pattern' url='pattern-krab.patt'>
+      <a-marker type='pattern' url='pattern-blue.patt'>
         <a-image src="krab.png"
           position= "0 1 0"
           scale= "1 1 1"
