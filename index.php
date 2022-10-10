@@ -4,7 +4,7 @@
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script> 
   <body>
-    <a-scene>
+    <a-scene embedded arjs>
       <a-marker type='pattern' url='pattern-blue.patt'>
         <a-image src="krab.png"
           position= "0 1 0"
